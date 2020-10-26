@@ -1887,7 +1887,7 @@ class Record extends Plugin {
 }
 
 // version nr is injected during build
-Record.VERSION = __VERSION__;
+Record.VERSION = '4.1.0';
 
 // register plugin
 videojs.Record = Record;
